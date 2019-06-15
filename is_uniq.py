@@ -8,5 +8,5 @@ def noDupe(s):
     return True
 
 
-    print(noDupe('sdsdsdsddsdsd'))
-    print(noDupe('dsa'))
+print(noDupe('sdsdsdsddsdsd'))
+print(noDupe('dsa'))
