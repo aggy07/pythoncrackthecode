@@ -9,4 +9,4 @@ def noDupe(s):
 
 
 print(noDupe('sdsdsdsddsdsd'))
-print(noDupe('dsa'))
+print(noDupe('dsajkjk'))
